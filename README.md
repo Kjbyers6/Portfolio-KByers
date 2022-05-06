@@ -1,5 +1,5 @@
 # Portfolio-KByers
-My end of semester portfolio of projects
+This portfolio is the collection of projects completed by me and a partner in our computational physics class. 
 
 Ideal Gas Histogram
 https://github.com/Kjbyers6/Portfolio-KByers/blob/8bcafd3451f24e6e7e48d246ea0c6f05b32b0053/00-ideal-gas-histogram.ipynb

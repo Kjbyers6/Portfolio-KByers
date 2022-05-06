@@ -12,3 +12,6 @@ https://github.com/Kjbyers6/Portfolio-KByers/blob/af35d696da912a3619d96bf53622e6
 
 Radial Motion
 https://github.com/Kjbyers6/Portfolio-KByers/blob/9dd949dcaf6c70fe9207ca4a30058f2b5c04e678/Project-03-Radial-Oscillation.ipynb
+
+Standing Waves in a Hoop
+https://github.com/Kjbyers6/Portfolio-KByers/blob/5008031f8143fc7e4c7e4136e054096f202377ba/Standing_Waves_Semester_Project.ipynb

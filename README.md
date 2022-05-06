@@ -10,3 +10,5 @@ https://github.com/Kjbyers6/Portfolio-KByers/blob/44f28c6a5ed46575f611d43cfcdca6
 Modeling motion of a curveball
 https://github.com/Kjbyers6/Portfolio-KByers/blob/af35d696da912a3619d96bf53622e6550d732967/Project%202.ipynb
 
+Radial Motion
+https://github.com/Kjbyers6/Portfolio-KByers/blob/9dd949dcaf6c70fe9207ca4a30058f2b5c04e678/Project-03-Radial-Oscillation.ipynb
